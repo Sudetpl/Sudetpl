@@ -18,7 +18,7 @@
 
 ## 💼 My Experiences
 
-- 💙 Blue Lead[@Flutter Students Club](https://linktr.ee/flutterstudentsclub) (2021-Now)
+- Team Lead [@Flutter Students Club](https://linktr.ee/flutterstudentsclub) (2021-Now)
 - < > Team Lead [@GDSC Atatürk University](https://gdsc.community.dev/ataturk-university/)
 - < > WTM Ambassador
 
