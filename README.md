@@ -4,7 +4,7 @@
 
 <h3 >I am a computer engineer who loves playing the piano and flute.✨</h3>
 
-<p align="left"> <a href="https://twitter.com/sudeetpll" target="blank"><img src="https://img.shields.io/twitter/follow/Sudetpl?logo=twitter&style=for-the-badge" alt="sudeetpll" /></a> </p>
+<p align="left"> <a href="https://twitter.com/sudeetpll" target="blank"><img src="https://img.shields.io/twitter/follow/sudeetpll?logo=twitter&style=for-the-badge" alt="sudeetpll" /></a> </p>
 
 - 🔭 I’m currently working on **Flutter,Dart**
 
