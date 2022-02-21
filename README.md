@@ -28,7 +28,7 @@
 - 💙 [Flutter 101](https://www.youtube.com/watch?v=9IHC7Ta3rYE&t=1331s)
 
 <p align="left">
-<a href="https://twitter.com/Sudetpl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Sudetpl" height="30" width="40" /></a>
+<a href="https://twitter.com/Sudetpl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sudeetpll" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/sude-topal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sude-topal" height="30" width="40" /></a>
 <a href="https://medium.com/@sudeetpl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sudeetpl" height="30" width="40" /></a>
 </p>
