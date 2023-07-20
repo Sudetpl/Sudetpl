@@ -1,6 +1,6 @@
 <h1 align="center">Hi I'm Sude👋🏻</h1>
 
-<img src="https://giphy.com/gifs/cat-kitten-computer-3oKIPnAiaMCws8nOsE"/>
+<img src="[https://giphy.com/gifs/cat-kitten-computer-3oKIPnAiaMCws8nOsE](https://giphy.com/gifs/cat-kitten-computer-3oKIPnAiaMCws8nOsE)"/>
 
 <h3 >I am a computer engineer who loves playing the piano and flute.✨</h3>
 
