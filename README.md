@@ -1,4 +1,4 @@
-<h1 align="center">Hi I'm Sude👋🏻</h1>
+<h1 align="left">Hi I'm Sude👋🏻</h1>
 
 <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif"/>
 
@@ -8,24 +8,11 @@
 
 - 🔭 I’m currently working on **Flutter,Dart**
 
-- 🌱 I’m currently learning **Kotlin**
-
 - 👯 I’m looking to collaborate for **Cross-Platform Projects**
 
 - 📫 How to reach me **@Sudetpl from Twitter and https://linktr.ee/sudetpl**
 
 - ⚡ Fun fact **I love to let myself go to music and dance**
-
-## 💼 My Experiences
-
-- Team Lead [@Flutter Students Club](https://linktr.ee/flutterstudentsclub) (2021-2022)
-- < > Team Lead [@GDSC Atatürk University](https://gdsc.community.dev/ataturk-university/)
-- < > WTM Ambassador
-
-
-## 📺 My YouTube Videos 
-
-- 💙 [Flutter 101](https://www.youtube.com/watch?v=9IHC7Ta3rYE&t=1331s)
 
 <p align="left">
 <a href="https://twitter.com/sudeetpll" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sudeetpll" height="30" width="40" /></a>
